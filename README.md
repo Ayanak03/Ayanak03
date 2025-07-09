@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayanak!
 
-<!--
-**Ayanak03/Ayanak03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MCA (Master of Computer Applications) student.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
+- HTML, CSS, and JavaScript
+- Basics of Python
+- How to use Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Goal
+To become a skilled web developer and contribute to open source projects.
+
+## 📫 Connect with Me
+- Email: ayanakkbhaskar03@gmail.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ayanak03)
+
+---
+
+Thanks for visiting my profile!
