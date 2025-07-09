@@ -11,7 +11,7 @@ I'm an MCA (Master of Computer Applications) student.
 To become a skilled web developer and contribute to open source projects.
 
 ## 📫 Connect with Me
-- Email: ayanakkbhaskar03@gmail.com
+- Email: ayanakbhaskar03@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/ayanak03)
 
 ---
